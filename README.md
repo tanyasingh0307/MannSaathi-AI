@@ -6,7 +6,7 @@
 
 Understands how you feel, tracks your mood, talks it out with an empathetic AI, and aims to flag early signs of a crisis.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-6BAA8F?style=for-the-badge)](https://YOUR-FRONTEND.vercel.app)
+[![Live Demo]]([https://YOUR-FRONTEND.vercel.app](https://mann-saathi-ai-agent-2a1n.vercel.app/))
 
 ![Status](https://img.shields.io/badge/status-in%20development-F4A340)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
@@ -15,7 +15,6 @@ Understands how you feel, tracks your mood, talks it out with an empathetic AI, 
 ![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-4285F4)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-[🌐 Live Demo](https://YOUR-FRONTEND.vercel.app) · [⚙️ Backend API](https://YOUR-BACKEND.onrender.com/health) · [🐞 Report a bug](https://github.com/tanyasingh0307/MannSaathi-AI/issues)
 
 </div>
 
@@ -188,8 +187,7 @@ _Final routes will be confirmed as the backend is built._
 
 | Part | Platform | Link |
 |------|----------|------|
-| Frontend | Vercel | https://YOUR-FRONTEND.vercel.app |
-| Backend | Render | https://YOUR-BACKEND.onrender.com |
+| Frontend | Vercel | [https://FRONTEND.vercel.app ](https://mann-saathi-ai-agent-2a1n.vercel.app/)|
 
 - **Backend → Render:** root directory `backend`, build `npm install && npm run build`, start `npm start`. Add the backend env vars in the dashboard.
 - **Frontend → Vercel:** root directory `frontend`. Set `BACKEND_API_URL` to your Render URL.
