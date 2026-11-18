@@ -6,8 +6,6 @@
 
 Understands how you feel, tracks your mood, talks it out with an empathetic AI, and aims to flag early signs of a crisis.
 
-[![Live Demo]]([https://YOUR-FRONTEND.vercel.app](https://mann-saathi-ai-agent-2a1n.vercel.app/))
-
 ![Status](https://img.shields.io/badge/status-in%20development-F4A340)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![Node](https://img.shields.io/badge/Node.js-Express-339933)
@@ -31,7 +29,7 @@ Most mental health chatbots only reply to messages. MannSaathi is being built as
 tracks mood over time, and is designed to detect high-risk patterns and start support
 steps early.
 
-> 🔗 **Try it live:** https://YOUR-FRONTEND.vercel.app
+> 🔗 **Try it live:** https://mann-saathi-ai-agent-2a1n.vercel.app/
 > The backend runs on a free plan, so the very first request may take a short while to wake up.
 
 ## 📸 Screenshots
